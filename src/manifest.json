@@ -2,12 +2,20 @@
   "manifest_version": 2,
 
   "name": "Make Flowdock Great Again",
-  "version": "0.1.0",
+  "version": "0.2.0",
+  "author": "Alex Hayes",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
   "description": "Takes Flowdock conversations back in time when they didn't have so many icons.",
 
   "content_scripts": [{
     "css": ["styles.css"],
     "matches": ["https://www.flowdock.com/*"]
-  }]
+  }],
+
+  "homepage_url": "https://github.com/alexhayes/make-flowdock-great-again"
 
 }

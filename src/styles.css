@@ -17,6 +17,10 @@
     left: 18px !important;
 }
 
-.chat-message.message {
+.chat-message-list .chat-message.message {
     padding-left: 60px !important;
+}
+
+.thread-activities .bubble-container {
+    margin-right: 0px !important;
 }
