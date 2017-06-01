@@ -1,0 +1,22 @@
+.compact .bubble {
+    border-left: 5px solid !important;
+    margin-left: 2px !important;
+}
+
+.bubble .bubble-icon {
+    display: none !important;
+}
+
+.F14406_threading_discoverability_phase_1 .message .bubble,
+.F14406_threading_discoverability_phase_1 .message .thread-indicator {
+    color: #FFF;
+    fill: #FFF;
+}
+
+.F14406_threading_discoverability_phase_1 .avatar-container {
+    left: 18px !important;
+}
+
+.chat-message.message {
+    padding-left: 60px !important;
+}

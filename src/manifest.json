@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "Make Flowdock Great Again",
+  "version": "0.1.0",
+  "description": "Takes Flowdock conversations back in time when they didn't have so many icons.",
+
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "matches": ["https://www.flowdock.com/*"]
+  }]
+
+}
