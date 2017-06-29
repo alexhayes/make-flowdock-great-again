@@ -1,26 +1,20 @@
-.compact .bubble {
+.bubble {
     border-left: 5px solid !important;
-    margin-left: 2px !important;
 }
 
 .bubble .bubble-icon {
     display: none !important;
 }
 
-.F14406_threading_discoverability_phase_1 .message .bubble,
-.F14406_threading_discoverability_phase_1 .message .thread-indicator {
+.bubble .thread-indicator {
     color: #FFF;
     fill: #FFF;
 }
 
-.F14406_threading_discoverability_phase_1 .avatar-container {
+.chat-message-list .avatar-container {
     left: 18px !important;
 }
 
 .chat-message-list .chat-message.message {
     padding-left: 60px !important;
-}
-
-.thread-activities .bubble-container {
-    margin-right: 0px !important;
 }
