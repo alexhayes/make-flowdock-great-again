@@ -1,3 +1,9 @@
+# 0.3.1
+
+_Make Flowdock Great Again... Again_
+
+Flowdock made some changes and broke Make Flowdock Great Again. Thanks to [bethanywilksch](https://github.com/bethanywilksch) for the PR.
+
 # 0.3.0
 
 - Support for flowdark theme
