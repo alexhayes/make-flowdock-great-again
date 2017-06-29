@@ -2,14 +2,14 @@
   "manifest_version": 2,
 
   "name": "Make Flowdock Great Again",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "author": "Alex Hayes",
   "icons": {
     "16": "icon16.png",
     "48": "icon48.png",
     "128": "icon128.png"
   },
-  "description": "Takes Flowdock conversations back in time when they didn't have so many icons.",
+  "description": "Takes Flowdock conversations back to a time when they didn't have so many icons.",
 
   "content_scripts": [{
     "css": ["styles.css"],
